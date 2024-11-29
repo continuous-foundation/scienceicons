@@ -1,7 +1,7 @@
 {
   "name": "@scienceicons/myst",
   "version": "1.0.4",
-  "description": "Open Science Icons in MyST Markdown by Curvenote",
+  "description": "Open Science Icons in MyST Markdown",
   "type": "module",
   "exports": {
     ".": {
@@ -23,10 +23,10 @@
     "build:react": "tsc --project tsconfig.react.json",
     "build": "npm run build:plugin && npm run build:react"
   },
-  "homepage": "https://github.com/curvenote/scienceicons#readme",
+  "homepage": "https://github.com/continuous-foundation/scienceicons#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/curvenote/scienceicons.git"
+    "url": "https://github.com/continuous-foundation/scienceicons.git"
   },
   "keywords": [
     "icons",
@@ -34,10 +34,10 @@
     "myst markdown",
     "markdown"
   ],
-  "author": "Steve Purves <steve@curvenote.com>",
+  "author": "Rowan Cockett <rowan@continuous.foundation>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/curvenote/scienceicons/issues"
+    "url": "https://github.com/continuous-foundation/scienceicons/issues"
   },
   "devDependencies": {
     "@curvenote/common": "^0.2.6",

@@ -10,7 +10,7 @@ SVG icons for open-science articles
 This article is Open Access #open-access-icon(color: orange, height: 1.1em, baseline: 20%)
 ```
 
-![](https://github.com/curvenote/scienceicons/blob/main/typst/docs/example.png?raw=true)
+![](https://github.com/continuous-foundation/scienceicons/blob/main/typst/docs/example.png?raw=true)
 
 ## Arguments
 
@@ -55,11 +55,11 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 
 You can browse and see all icons here:
 
-https://github.com/curvenote/scienceicons/tree/main/typst/docs/scienceicons.pdf
+https://github.com/continuous-foundation/scienceicons/tree/main/typst/docs/scienceicons.pdf
 
-![](https://github.com/curvenote/scienceicons/blob/main/typst/docs/icons.png?raw=true)
+![](https://github.com/continuous-foundation/scienceicons/blob/main/typst/docs/icons.png?raw=true)
 
 ## Contributing
 
 To add or request an icon to be added to this package see: \
-https://github.com/curvenote/scienceicons
+https://github.com/continuous-foundation/scienceicons

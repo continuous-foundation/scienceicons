@@ -1,14 +1,14 @@
 <p align="center">
-  Open science SVG icons, by Curvenote. <br>Available as basic SVG icons and via first-party <a href="#react">React</a> and <a href="#vue">Vue</a> libraries.
+  Open science SVG icons, by Continuous Science Foundation. <br>Available as basic SVG icons and via first-party <a href="#react">React</a> and <a href="#vue">Vue</a> libraries.
 <p>
 
 <p align="center">
-  <a href="https://github.com/curvenote/scienceicons"><strong>Browse scienceicons &rarr;</strong></a>
+  <a href="https://github.com/continuous-foundation/scienceicons"><strong>Browse scienceicons &rarr;</strong></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/curvenote/scienceicons/releases"><img src="https://img.shields.io/npm/v/scienceicons" alt="Latest Release"></a>
-    <a href="https://github.com/curvenote/scienceicons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/scienceicons.svg" alt="License"></a>
+    <a href="https://github.com/continuous-foundation/scienceicons/releases"><img src="https://img.shields.io/npm/v/scienceicons" alt="Latest Release"></a>
+    <a href="https://github.com/continuous-foundation/scienceicons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/scienceicons.svg" alt="License"></a>
 </p>
 
 ## React

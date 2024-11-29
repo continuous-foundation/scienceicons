@@ -2,15 +2,15 @@
   "name": "@scienceicons/vue",
   "license": "MIT",
   "version": "0.0.11",
-  "description": "Open science icons for Vue, by Curvenote.",
+  "description": "Open science icons for Vue, by Continuous Science Foundation.",
   "keywords": [
     "icons",
     "open-science"
   ],
-  "homepage": "https://github.com/curvenote/scienceicons#readme",
+  "homepage": "https://github.com/continuous-foundation/scienceicons#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/curvenote/scienceicons.git"
+    "url": "https://github.com/continuous-foundation/scienceicons.git"
   },
   "files": [
     "20",

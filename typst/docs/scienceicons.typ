@@ -4,7 +4,7 @@
 
 = Science Icons
 
-Icons for open-source science publishing, made with love by #link("https://curvenote.com")[#curvenote-icon(color: blue.darken(20%)) Curvenote].
+Icons for open-source science publishing, made with love by #link("https://continuous.foundation")[Continuous Science Foundation].
 
 == Usage
 
@@ -74,4 +74,4 @@ All icons can also be accessed by their SVG text directly. For example, `Youtube
 == Contributing
 
 To request or add an icon, please visit:\
-https://github.com/curvenote/scienceicons
+https://github.com/continuous-foundation/scienceicons
