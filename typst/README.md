@@ -25,6 +25,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 ## List of Icons
 
 - arxiv-icon
+- binder-icon
 - cc-by-icon
 - cc-nc-icon
 - cc-nd-icon
