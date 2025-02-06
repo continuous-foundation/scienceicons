@@ -22,7 +22,7 @@ npm install @scienceicons/react
 Now each icon can be imported individually as a React component:
 
 ```js
-import { OpenAccessIcon } from '@scienceicons/react/24/solid'
+import { OpenAccessIcon } from '@scienceicons/react/24/solid';
 
 function MyComponent() {
   return (
@@ -30,7 +30,7 @@ function MyComponent() {
       <OpenAccessIcon className="h-6 w-6 text-blue-500" />
       <p>...</p>
     </div>
-  )
+  );
 }
 ```
 
@@ -61,11 +61,11 @@ Now each icon can be imported individually as a Vue component:
 </template>
 
 <script>
-import { OpenAccessIcon } from '@scienceicons/vue/24/solid'
+import { OpenAccessIcon } from '@scienceicons/vue/24/solid';
 
 export default {
   components: { OpenAccessIcon },
-}
+};
 </script>
 ```
 

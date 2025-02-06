@@ -41,6 +41,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
   column-gutter: 3em,
 // Start Icons
 [`arxiv-icon`()], arxiv-icon(),
+[`binder-icon`()], binder-icon(),
 [`cc-by-icon`()], cc-by-icon(),
 [`cc-nc-icon`()], cc-nc-icon(),
 [`cc-nd-icon`()], cc-nd-icon(),

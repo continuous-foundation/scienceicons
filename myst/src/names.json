@@ -1,5 +1,6 @@
 [
   { "name": "arxiv", "componentName": "ArxivIcon" },
+  { "name": "binder", "componentName": "BinderIcon" },
   { "name": "cc-by", "componentName": "CcByIcon" },
   { "name": "cc-nc", "componentName": "CcNcIcon" },
   { "name": "cc-nd", "componentName": "CcNdIcon" },
