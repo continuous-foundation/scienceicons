@@ -16,7 +16,7 @@
     "prepublishOnly": "npm run build",
     "lint": "node ./scripts/verify-names.js",
     "prebuild": "rimraf ./{20,24} ./{vue,react}/{20,24} ./optimized/{20,24}",
-    "build": "npm run build-24-outline && npm run build-20-solid && npm run build-24-solid && npm run build-react && npm run build-vue",
+    "build": "npm run build-24-outline && npm run build-20-solid && npm run build-24-solid && npm run build-react && npm run build-vue && npm run build-typst",
     "build-react": "node ./scripts/build.js react",
     "lint:format": "prettier --check \"scripts/*.{js,mjs,ts,tsx,md}\" \"./*.{js,mjs,ts,tsx,md}\"",
     "build-vue": "node ./scripts/build.js vue",

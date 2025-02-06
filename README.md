@@ -75,6 +75,22 @@ Icons use an upper camel case naming convention and are always suffixed with the
 
 [Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@scienceicons/vue/24/solid/)
 
+# Typst
+
+```typst
+#import "@preview/scienceicons:0.0.6": open-access-icon
+
+This article is Open Access #open-access-icon(color: orange, height: 1.1em, baseline: 20%)
+```
+
+![](https://github.com/continuous-foundation/scienceicons/blob/main/typst/docs/example.png?raw=true)
+
+All icons:
+
+![](https://github.com/continuous-foundation/scienceicons/blob/main/typst/docs/icons.png?raw=true)
+
+[See more](https://typst.app/universe/package/scienceicons/)
+
 # MyST Markdown
 
 A MyST Markdown role for science icons and an accompanying react based renderer
