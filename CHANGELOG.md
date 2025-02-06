@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.12] - 2025-02-06
+
+Add Binder icon.
+
 ## [0.0.11] - 2024-06-28
 
 Extended `names` to export plain and component names
