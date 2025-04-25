@@ -5,7 +5,7 @@ SVG icons for open-science articles
 ## Usage
 
 ```typst
-#import "@preview/scienceicons:0.0.6": open-access-icon
+#import "@preview/scienceicons:0.1.0": open-access-icon
 
 This article is Open Access #open-access-icon(color: orange, height: 1.1em, baseline: 20%)
 ```
@@ -26,6 +26,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 
 - arxiv-icon
 - binder-icon
+- bluesky-icon
 - cc-by-icon
 - cc-nc-icon
 - cc-nd-icon
@@ -50,6 +51,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 - slack-icon
 - twitter-icon
 - website-icon
+- x-icon
 - youtube-icon
 
 ## See All Icons
