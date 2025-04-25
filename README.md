@@ -78,7 +78,7 @@ Icons use an upper camel case naming convention and are always suffixed with the
 # Typst
 
 ```typst
-#import "@preview/scienceicons:0.0.6": open-access-icon
+#import "@preview/scienceicons:0.1.0": open-access-icon
 
 This article is Open Access #open-access-icon(color: orange, height: 1.1em, baseline: 20%)
 ```

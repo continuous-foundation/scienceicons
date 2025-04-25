@@ -42,6 +42,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 // Start Icons
 [`arxiv-icon`()], arxiv-icon(),
 [`binder-icon`()], binder-icon(),
+[`bluesky-icon`()], bluesky-icon(),
 [`cc-by-icon`()], cc-by-icon(),
 [`cc-nc-icon`()], cc-nc-icon(),
 [`cc-nd-icon`()], cc-nd-icon(),
@@ -66,6 +67,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 [`slack-icon`()], slack-icon(),
 [`twitter-icon`()], twitter-icon(),
 [`website-icon`()], website-icon(),
+[`x-icon`()], x-icon(),
 [`youtube-icon`()], youtube-icon(),
 // End Icons
 )
