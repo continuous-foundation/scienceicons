@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.13] - 2025-04-25
+
+Add x and Bluesky icons.
+
 ## [0.0.12] - 2025-02-06
 
 Add Binder icon.
