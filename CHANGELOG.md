@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.14] - 2026-04-28
+
+Add Semble icon
+
 ## [0.0.13] - 2025-04-25
 
 Add x and Bluesky icons.
