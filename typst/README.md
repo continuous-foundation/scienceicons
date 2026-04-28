@@ -48,6 +48,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 - orcid-icon
 - osi-icon
 - ror-icon
+- semble-icon
 - slack-icon
 - twitter-icon
 - website-icon

@@ -64,6 +64,7 @@ Additionally the raw SVG text for each icon can be found by replacing `Icon` wit
 [`orcid-icon`()], orcid-icon(),
 [`osi-icon`()], osi-icon(),
 [`ror-icon`()], ror-icon(),
+[`semble-icon`()], semble-icon(),
 [`slack-icon`()], slack-icon(),
 [`twitter-icon`()], twitter-icon(),
 [`website-icon`()], website-icon(),
